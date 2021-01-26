@@ -2,7 +2,7 @@
 
 My name is Arnaud Duforat and I'm a Solution Architect from France.
 
-You can find some on my articles on my blog at [blog.dema.in](https://blog.dema.in)
+You can find some of my articles on my blog at [blog.dema.in](https://blog.dema.in)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -10,6 +10,7 @@ You can find some on my articles on my blog at [blog.dema.in](https://blog.dema.
 [![Grommet](https://img.shields.io/badge/Code-Grommet-7d4cdb?style=flat&logoColor=white)](https://v2.grommet.io)
 [![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=blue)](https://kubernetes.io)
 [![OpenShift](https://img.shields.io/badge/Tools-OpenShift-e00?style=flat&logoColor=white)](https://openshift.com)
+[![DevOps](https://img.shields.io/static/v1?label=%F0%9F%9A%80&message=DevOps&color=brightgreen)](https://youtu.be/EOveXZhJpr4)
 
 <a href="https://github.com/neokeld/neokeld">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=neokeld&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arnaud Duforat's GitHub Stats" />
