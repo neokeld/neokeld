@@ -16,7 +16,7 @@ You can find some of my articles on my blog at [blog.dema.in](https://blog.dema.
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=neokeld&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arnaud Duforat's GitHub Stats" />
 </a>
 <a href="https://github.com/neokeld/neokeld">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neokeld&hide=C,HTML&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arnaud Duforat's Top Langs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neokeld&langs_count=3&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arnaud Duforat's Top Langs" />
 </a>
 
 ## Some of my Open Source contributions
@@ -34,3 +34,4 @@ Project                                                                         
 [devopsfaith/krakend-jose](https://github.com/devopsfaith/krakend-jose)                      | Go       | 2020 | [(fix vuln) list >>>](https://github.com/devopsfaith/krakend-jose/commits?author=neokeld)
 [devopsfaith/krakendesigner](https://github.com/devopsfaith/krakendesigner)                  | Go       | 2020 | [(fix typo) list >>>](https://github.com/devopsfaith/krakendesigner/commits?author=neokeld)
 [devopsfaith/krakend](https://github.com/devopsfaith/krakend)                                | Go       | 2020 | [(fix typo) list >>>](https://github.com/devopsfaith/krakend/commits?author=neokeld)
+[PXshadow/weblink](https://github.com/PXshadow/weblink)                                      | Haxe     | 2021 | [(evol) list >>>](https://github.com/PXshadow/weblink/commits?author=neokeld)
