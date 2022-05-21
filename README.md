@@ -2,7 +2,7 @@
 
 My name is Arnaud Duforat and I'm a Solution Architect from France.
 
-You can find some of my articles on my blog at [blog.dema.in](https://blog.dema.in)
+You can find some of my projects on [dema.in](https://dema.in) and my articles on my blog at [blog.dema.in](https://blog.dema.in)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -35,3 +35,6 @@ Project                                                                         
 [devopsfaith/krakendesigner](https://github.com/devopsfaith/krakendesigner)                  | Go       | 2020 | [(fix typo) list >>>](https://github.com/devopsfaith/krakendesigner/commits?author=neokeld)
 [devopsfaith/krakend](https://github.com/devopsfaith/krakend)                                | Go       | 2020 | [(fix typo) list >>>](https://github.com/devopsfaith/krakend/commits?author=neokeld)
 [PXshadow/weblink](https://github.com/PXshadow/weblink)                                      | Haxe     | 2021 | [(evol) list >>>](https://github.com/PXshadow/weblink/commits?author=neokeld)
+[edukera/archetype-landing](https://github.com/PXshadow/weblink)                             | Archetype | 2021 | [(fix doc) list >>>](https://github.com/edukera/archetype-landing/commits?author=neokeld)
+[HeapsIO/heaps-doc](https://github.com/HeapsIO/heaps-doc)                                    | Haxe     | 2022 | [(fix doc) list >>>](https://github.com/HeapsIO/heaps-doc/commits?author=neokeld)
+[PXshadow/weblink](https://github.com/PXshadow/weblink)                                      | Haxe     | 2022 | [(evol) list >>>](https://github.com/PXshadow/weblink/commits?author=neokeld)
