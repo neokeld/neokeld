@@ -38,3 +38,4 @@ Project                                                                         
 [edukera/archetype-landing](https://github.com/PXshadow/weblink)                             | Archetype | 2021 | [(fix doc) list >>>](https://github.com/edukera/archetype-landing/commits?author=neokeld)
 [HeapsIO/heaps-doc](https://github.com/HeapsIO/heaps-doc)                                    | Haxe     | 2022 | [(fix doc) list >>>](https://github.com/HeapsIO/heaps-doc/commits?author=neokeld)
 [PXshadow/weblink](https://github.com/PXshadow/weblink)                                      | Haxe     | 2022 | [(evol) list >>>](https://github.com/PXshadow/weblink/commits?author=neokeld)
+[spring-cloud/spring-cloud-function](https://github.com/spring-cloud/spring-cloud-function)  | Java     | 2022 | [(refacto) list >>>](https://github.com/spring-cloud/spring-cloud-function/commits?author=neokeld)
