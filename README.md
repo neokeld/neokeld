@@ -13,7 +13,7 @@ You can find some of my projects on [dema.in](https://dema.in) and my articles o
 [![DevOps](https://img.shields.io/static/v1?label=%F0%9F%9A%80&message=DevOps&color=brightgreen)](https://youtu.be/EOveXZhJpr4)
 
 <a href="https://github.com/neokeld/neokeld">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neokeld&langs_count=3&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arnaud Duforat's Top Langs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neokeld&langs_count=4&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arnaud Duforat's Top Langs" />
 </a>
 
 ## Some of my Open Source contributions
@@ -37,5 +37,6 @@ Project                                                                         
 [PXshadow/weblink](https://github.com/PXshadow/weblink)                                      | Haxe     | 2022 | [(evol) list >>>](https://github.com/PXshadow/weblink/commits?author=neokeld)
 [spring-cloud/spring-cloud-function](https://github.com/spring-cloud/spring-cloud-function)  | Java     | 2022 | [(refacto) list >>>](https://github.com/spring-cloud/spring-cloud-function/commits?author=neokeld)
 [jhipster/consul-config-loader](https://github.com/jhipster/consul-config-loader)            | Docker   | 2023 | [(refacto) list >>>](https://github.com/jhipster/consul-config-loader/commits?author=neokeld)
-[josuigoa/hl-extension](https://github.com/josuigoa/hl-extension/commits?author=neokeld)     | Haxe     | 2024 | [(doc) list >>>](https://github.com/josuigoa/hl-extension/commits?author=neokeld)
-[c3lang/c3c](https://github.com/c3lang/c3c/commits?author=neokeld)                           | C3       | 2024 | [(evol) list >>>](https://github.com/c3lang/c3c/commits?author=neokeld)
+[josuigoa/hl-extension](https://github.com/josuigoa/hl-extension)                            | Haxe     | 2024 | [(doc) list >>>](https://github.com/josuigoa/hl-extension/commits?author=neokeld)
+[c3lang/c3c](https://github.com/c3lang/c3c)                                                  | C3       | 2024 | [(evol) list >>>](https://github.com/c3lang/c3c/commits?author=neokeld)
+[tsoding/c3ws](https://github.com/tsoding/c3ws)                                              | C3       | 2024 | [(evol) list >>>](https://github.com/tsoding/c3ws/commits?author=neokeld)
