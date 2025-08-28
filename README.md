@@ -16,7 +16,7 @@ You can find some of my projects on [dema.in](https://dema.in) and my articles o
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neokeld&langs_count=4&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arnaud Duforat's Top Langs" />
 </a>
 
-## Some of my Open Source contributions
+## 🤝 Some of my Open Source contributions
 
 Project                                                                                      | Language | Year | List of contributions
 ---------------------------------------------------------------------------------------------|----------|------|----------------------
@@ -41,3 +41,10 @@ Project                                                                         
 [c3lang/c3c](https://github.com/c3lang/c3c)                                                  | C3       | 2024 | [(evol) list >>>](https://github.com/c3lang/c3c/commits?author=neokeld)
 [tsoding/c3ws](https://github.com/tsoding/c3ws)                                              | C3       | 2024 | [(evol) list >>>](https://github.com/tsoding/c3ws/commits?author=neokeld)
 [tclesius/http.c3](https://github.com/tclesius/http.c3)                                      | C3       | 2024 | [(evol) list >>>](https://github.com/tclesius/http.c3/commits?author=neokeld)
+
+## 🏘️ Some of my projets
+
+Project                                                                                      | Year of creation | Links
+---------------------------------------------------------------------------------------------|------------------|--------------------------------------------------
+carto.dema.in                                                                                | 2019             | https://carto.dema.in/
+clay-raylib-template                                                                         | 2025             | https://github.com/neokeld/clay-raylib-template
