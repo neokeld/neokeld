@@ -47,13 +47,13 @@ Project                                                                         
 Project                                                                                      | Year of creation | Links
 ---------------------------------------------------------------------------------------------|------------------|--------------------------------------------------
 News                                                                                         | 2019             | https://news.dema.in/
-carto.dema.in                                                                                | 2019             | https://carto.dema.in/
-Citations                                                                                    | 2020             | https://citations.dema.in/
-JavaFXDesign                                                                                 | 2020             | https://github.com/neokeld/JavaFXDesign
+Carto, add points to your map                                                                | 2019             | https://carto.dema.in/
+Citations, a quote collector                                                                 | 2020             | https://citations.dema.in/
+JavaFXDesign, a JavaFX application template                                                  | 2020             | https://github.com/neokeld/JavaFXDesign
 Transpile Archetype Language to Python                                                       | 2021             | https://github.com/neokeld/archetype-to-python
 Composion component library                                                                  | 2021             | https://neokeld.github.io/composion/
 Java Fluency Fluent Bit Demo                                                                 | 2022             | https://github.com/neokeld/java-fluency-fluent-bit-demo
 Deck GL Bordeaux                                                                             | 2024             | https://dema.in/deck-gl-bordeaux/
-clay-raylib-template                                                                         | 2025             | https://github.com/neokeld/clay-raylib-template
-Météo de Mérignac                                                                            | 2025             | https://carto.dema.in/meteo.html
-alexandrie.dema.in                                                                           | 2025             | https://alexandrie.dema.in/
+Clay with Raylib template                                                                    | 2025             | https://github.com/neokeld/clay-raylib-template
+Météo de Mérignac, weather of a french town                                                  | 2025             | https://carto.dema.in/meteo.html
+Alexandrie, a bookmarks collector                                                            | 2025             | https://alexandrie.dema.in/
