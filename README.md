@@ -13,7 +13,7 @@ You can find some of my projects on [dema.in](https://dema.in) and my articles o
 [![DevOps](https://img.shields.io/static/v1?label=%F0%9F%9A%80&message=DevOps&color=brightgreen)](https://youtu.be/EOveXZhJpr4)
 
 <a href="https://github.com/neokeld/neokeld">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neokeld&langs_count=4&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arnaud Duforat's Top Langs" />
+    <img align="center" src="./lang-stats.svg" alt="Arnaud Duforat's Top Langs" />
 </a>
 
 ## 🤝 Some of my Open Source contributions
