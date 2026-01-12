@@ -38,9 +38,10 @@ Project                                                                         
 [spring-cloud/spring-cloud-function](https://github.com/spring-cloud/spring-cloud-function)  | Java     | 2022 | [(refacto) list >>>](https://github.com/spring-cloud/spring-cloud-function/commits?author=neokeld)
 [jhipster/consul-config-loader](https://github.com/jhipster/consul-config-loader)            | Docker   | 2023 | [(refacto) list >>>](https://github.com/jhipster/consul-config-loader/commits?author=neokeld)
 [josuigoa/hl-extension](https://github.com/josuigoa/hl-extension)                            | Haxe     | 2024 | [(doc) list >>>](https://github.com/josuigoa/hl-extension/commits?author=neokeld)
-[c3lang/c3c](https://github.com/c3lang/c3c)                                                  | C3       | 2024 | [(evol) list >>>](https://github.com/c3lang/c3c/commits?author=neokeld)
+[c3lang/c3c](https://github.com/c3lang/c3c)                                                  | C3       | 2024 | [(evol) list >>>](https://github.com/c3lang/c3c/commits?author=neokeld&since=2024-01-01&until=2024-12-31)
 [tsoding/c3ws](https://github.com/tsoding/c3ws)                                              | C3       | 2024 | [(evol) list >>>](https://github.com/tsoding/c3ws/commits?author=neokeld)
 [tclesius/http.c3](https://github.com/tclesius/http.c3)                                      | C3       | 2024 | [(evol) list >>>](https://github.com/tclesius/http.c3/commits?author=neokeld)
+[c3lang/c3c](https://github.com/c3lang/c3c)                                                  | C3       | 2026 | [(evol) list >>>](https://github.com/c3lang/c3c/commits?author=neokeld&since=2026-01-01&until=2026-12-31)
 
 ## 🏘️ Some of my projets
 
