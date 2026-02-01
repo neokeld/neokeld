@@ -42,6 +42,7 @@ Project                                                                         
 [tsoding/c3ws](https://github.com/tsoding/c3ws)                                              | C3       | 2024 | [(evol) list >>>](https://github.com/tsoding/c3ws/commits?author=neokeld)
 [tclesius/http.c3](https://github.com/tclesius/http.c3)                                      | C3       | 2024 | [(evol) list >>>](https://github.com/tclesius/http.c3/commits?author=neokeld)
 [c3lang/c3c](https://github.com/c3lang/c3c)                                                  | C3       | 2026 | [(evol) list >>>](https://github.com/c3lang/c3c/commits?author=neokeld&since=2026-01-01&until=2026-12-31)
+[c3lang/c3-web](https://github.com/c3lang/c3-web)                                            | C3       | 2026 | [(doc) list >>>](https://github.com/c3lang/c3-web/commits?author=neokeld)
 
 ## 🏘️ Some of my projets
 
