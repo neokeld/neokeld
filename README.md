@@ -60,3 +60,4 @@ Deck GL Bordeaux                                                                
 Clay with Raylib template                                                                    | 2025             | https://github.com/neokeld/clay-raylib-template
 Météo de Mérignac, weather of a french town                                                  | 2025             | https://carto.dema.in/meteo.html
 Alexandrie, a bookmarks collector                                                            | 2025             | https://alexandrie.dema.in/
+FixedRecipeCost, un mod MelonLoader pour Dave the Diver                                      | 2026             | https://github.com/neokeld/FixedRecipeCost
